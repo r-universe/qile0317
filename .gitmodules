@@ -8,3 +8,6 @@
 [submodule "FastUtils"]
 	path = FastUtils
 	url = https://github.com/qile0317/fastutils
+[submodule "einops"]
+	path = einops
+	url = https://github.com/qile0317/einops
